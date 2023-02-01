@@ -1,3 +1,5 @@
+# This test to random my func
+
 import random
 
 a = int(input())
