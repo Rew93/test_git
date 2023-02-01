@@ -1,4 +1,4 @@
-# This test to random my func
+# This random win or lose
 
 import random
 
