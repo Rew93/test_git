@@ -1,3 +1,4 @@
+# This test to random my func
 
 def take_number(a, b):
     return 'Your win' if a == b else 'Your lose'
