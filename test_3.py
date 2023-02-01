@@ -1,4 +1,4 @@
-# This test to random my func
+# This random win or lose
 
 def take_number(a, b):
     return 'Your win' if a == b else 'Your lose'
